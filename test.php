@@ -1,3 +1,3 @@
 <?php 
-echo "Master Branchs test file";echo "<br/>";
+echo "test.php";echo "<br/>";
 ?>
